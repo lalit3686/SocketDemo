@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">SocketDemo</string>
+    <string name="text_ip_address">IP Address -</string>
+    <string name="text_port_number">Port -</string>
+    <string name="hint_ip_address">IP Address</string>
+    <string name="hint_port_number">Port</string>
+    <string name="button_server">Server</string>
+    <string name="button_client">Client</string>
+
+</resources>
